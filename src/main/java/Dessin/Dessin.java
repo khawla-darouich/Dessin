@@ -34,6 +34,7 @@ public class Dessin {
     public static void serialiser(Dessin dessin)
     {
         try  {
+            System.out.println("FEATURE AA");
             System.out.println("FEATURE A");
             System.out.println("FEATURE B");
             FileOutputStream fout=new FileOutputStream("auth.bin");
