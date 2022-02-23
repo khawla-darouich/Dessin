@@ -35,6 +35,7 @@ public class Dessin {
     {
         try  {
             System.out.println("FEATURE A");
+            System.out.println("FEATURE B");
             FileOutputStream fout=new FileOutputStream("auth.bin");
             ObjectOutputStream oout=new ObjectOutputStream(fout);
             oout.writeObject(dessin);
