@@ -35,7 +35,7 @@ public class Dessin {
     {
         try  {
             System.out.println("FEATURE C");
-            System.out.println("FEATURE BB");
+            System.out.println("FEATURE CO");
             System.out.println("FEATURE AA");
             System.out.println("FEATURE A");
             System.out.println("FEATURE B");
