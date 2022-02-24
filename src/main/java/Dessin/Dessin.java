@@ -34,6 +34,7 @@ public class Dessin {
     public static void serialiser(Dessin dessin)
     {
         try  {
+            System.out.println("pull-fetch-push");
             System.out.println("FEATURE C");
             System.out.println("FEATURE CO");
             System.out.println("FEATURE AA");
